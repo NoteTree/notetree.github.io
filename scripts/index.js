@@ -10,7 +10,7 @@ async function loaded() {
         //title.innerText = "";
         await sleep(500);
         //title.style.fontFamily = fonts[i];
-        await typeWriter(title, "Cyanic");
+        await typeWriter(title, "NoteTree");
         fadein();
         await blinkingCursor(title, 4);
     //}
